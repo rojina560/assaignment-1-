@@ -8,9 +8,11 @@ In typeScript both interface and types define the shape of objects, but they hav
 An interface in typeScript is a way to define  the shape of an object its only works of an object
 
 
+```bash
 interface User {
   name: string;
   age: number;
 }
+```
 ## what is an type 
-Type system in typeScript describes various data .
+type is a keyword used to define custom types. It's a way to describe the shape or structure of data, making your code safer and easier to understand.
